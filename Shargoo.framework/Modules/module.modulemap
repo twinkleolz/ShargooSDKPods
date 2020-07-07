@@ -1,0 +1,6 @@
+framework module Shargoo {
+  umbrella header "Shargoo.h"
+
+  export *
+  module * { export * }
+}
